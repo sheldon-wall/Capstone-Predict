@@ -18,4 +18,4 @@ This shiny application consists of a user interface (UI) that provisions entry o
 - The user enters in the **Input** text they wish to type in the _Enter Sentence_ field and can use **Side Panel Control** options in the display of the results
 - By default a table of predicted 5 next words is displayed below the input parameter and is ordered by descending probability (number of words and ordering is configurable by user preference)
 - Based on a capstone [benchmarking](https://github.com/hfoffani/dsci-benchmark) mechanism (Week 4 [Forum](https://www.coursera.org/learn/data-science-project/discussions/weeks/4/threads/qnLGp_1IEealOAqmTyI3zA)) the application scored very well compared to other posted results.  Top-3 score = 18.29% and quick response = 8.16 msec
-- The application source code can be found at: <https://github.com/sheldon-wall/Capstone-Predict>
+- The application code can be found at: <https://sdwall.shinyapps.io/predict/>
