@@ -20,7 +20,7 @@ var_list <- c(names(ngram_all), "prob")
 ui <- fluidPage(theme = "bootstrap.css",
    
                 
-  navbarPage("Predict Next Word - with Semantic Bias!",
+  navbarPage("Predict Next Word - with Sentiment Bias!",
      tabPanel("Predict",
               sidebarLayout(
                 sidebarPanel(
